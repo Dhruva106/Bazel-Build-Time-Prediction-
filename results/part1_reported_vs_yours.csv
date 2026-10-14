@@ -1,0 +1,3 @@
+experiment,reported_training_RMSE_ms,your_training_RMSE_ms,your_validation_RMSE_ms,your_test_RMSE_ms
+Linear Regression - without feature crossing,5735.84,5707.019964517883,5715.138546619233,5996.429735486103
+Linear Regression - with prefix × type feature crossing,5628.09,5685.624772367188,5718.960605033462,5977.638427884271

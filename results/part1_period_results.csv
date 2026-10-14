@@ -1,0 +1,19 @@
+period,train_RMSE,validation_RMSE,test_RMSE,experiment
+1,6256.716352441298,6210.0268194016035,6663.3591925399,Linear Regression - without feature crossing
+2,5896.506814099644,5870.889469918512,6246.87293634859,Linear Regression - without feature crossing
+3,5723.384044577675,5714.863425746767,6032.312695802117,Linear Regression - without feature crossing
+4,5640.25536370559,5645.136243354889,5921.143863747661,Linear Regression - without feature crossing
+5,5599.1179966603995,5614.52371060609,5862.347384213872,Linear Regression - without feature crossing
+6,5577.34881893722,5601.200606122206,5830.378146397,Linear Regression - without feature crossing
+7,5564.534207919056,5595.374930663707,5812.51939536421,Linear Regression - without feature crossing
+8,5555.930824227559,5592.749764986262,5802.358151858233,Linear Regression - without feature crossing
+9,5549.385258092504,5591.481948773054,5796.575853103353,Linear Regression - without feature crossing
+1,6203.44986214917,6168.068758657845,6602.994962523096,Linear Regression - with prefix × type feature crossing
+2,5852.4599235013275,5844.332129728317,6192.513469364653,Linear Regression - with prefix × type feature crossing
+3,5697.257057638705,5709.774897154699,5997.187021409406,Linear Regression - with prefix × type feature crossing
+4,5626.041280781427,5654.505517871002,5902.08034461169,Linear Regression - with prefix × type feature crossing
+5,5590.089973727134,5631.381762913105,5853.829791646407,Linear Regression - with prefix × type feature crossing
+6,5569.08505104337,5621.155210523946,5828.203680473713,Linear Regression - with prefix × type feature crossing
+7,5554.691617454427,5616.171917733329,5814.067815439225,Linear Regression - with prefix × type feature crossing
+8,5543.490590080475,5613.441966338578,5806.127961845585,Linear Regression - with prefix × type feature crossing
+9,5534.057594928656,5611.8132843803405,5801.740803644651,Linear Regression - with prefix × type feature crossing
