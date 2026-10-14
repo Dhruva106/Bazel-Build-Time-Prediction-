@@ -1,0 +1,4 @@
+model,test_RMSE_ms,difference_vs_Random_Forest_ms,Random_Forest_relative_to_this_model
+Linear Regression - without feature crossing,5796.575853103353,-85.15922546367165,Random Forest higher RMSE
+Linear Regression - with prefix × type feature crossing,5801.740803644651,-79.99427492237373,Random Forest higher RMSE
+Random Forest Regressor,5881.735078567025,0.0,Same RMSE
